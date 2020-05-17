@@ -41,9 +41,9 @@ body {
   background-image: url("img/icon-email-header.svg");
 }
 
-.header-phone {
+.header-skype {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("img/icon-skype-header.svg");
 }
 
 .hero-image {
@@ -188,7 +188,7 @@ body {
   background-image: url("img/icon-email-footer.svg");
 }
 
-.footer-phone {
+.footer-skype {
   padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  background-image: url("img/icon-skype-footer.svg");
 }
